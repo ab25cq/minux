@@ -6,6 +6,6 @@ git config --global user.name ab25cq
 
 git add .
 git commit 
-git remote set-url origin git@github.com:ab25cq/minux.git
+#git remote set-url origin git@github.com:ab25cq/minux.git
 git push -f -u origin master
 
